@@ -1,0 +1,6 @@
+<configuration plugin="stuff">
+    <settings name="commands">
+        <set name="startdemo-rec">60</set>
+        <set name="stopdemo-cut">60</set>
+    </settings>
+</configuration>
